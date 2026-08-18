@@ -13,7 +13,7 @@
 [![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=WeChat&logoColor=white)](#-哪里可以找到我)
 [![Blog](https://img.shields.io/badge/-Blog-0e83cd?style=flat&logo=Google-Chrome&logoColor=white)](https://chenjieliefu.github.io/qingchenai.github.io/)
 
-欢迎来到我的 GitHub 主页！我是陈家庆（QINGCHEN），一名 AI 产品经理，专注于大模型应用落地、AI 编程与智能体工作流，致力于连接产品战略、用户需求与技术实现。
+欢迎来到我的 GitHub 主页！我是清晨 QINGCHEN，一名 AI 产品经理，专注于大模型应用落地、AI 编程与智能体工作流，致力于连接产品战略、用户需求与技术实现。
 
 #### 🌱 我正在做的事 🌱
 - 探索 AI Coding、智能体工作流与人与 AI 的协作

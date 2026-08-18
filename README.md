@@ -13,7 +13,7 @@ An AI Product Manager focused on **LLM application deployment** — turning AI c
 [![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=WeChat&logoColor=white)](#-where-to-find-me)
 [![Blog](https://img.shields.io/badge/-Blog-0e83cd?style=flat&logo=Google-Chrome&logoColor=white)](https://chenjieliefu.github.io/qingchenai.github.io/)
 
-Welcome to my GitHub page! I'm Chen Jiaqing (QINGCHEN), an AI Product Manager focused on LLM application deployment, AI coding and agent workflows — bridging product strategy, user needs and technical implementation.
+Welcome to my GitHub page! I'm QINGCHEN, an AI Product Manager focused on LLM application deployment, AI coding and agent workflows — bridging product strategy, user needs and technical implementation.
 
 #### 🌱 Things I'm working on 🌱
 - Exploring AI coding, agent workflows and human–AI collaboration
