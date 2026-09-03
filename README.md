@@ -8,10 +8,11 @@
 
 An AI Product Manager focused on **LLM application deployment** — turning AI capabilities into practical, user-centered products. No flashy demos, only products that truly work for people.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/chenjieliefu)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:18233602932@163.com)
-[![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=WeChat&logoColor=white)](#-where-to-find-me)
-[![Blog](https://img.shields.io/badge/-Blog-0e83cd?style=flat&logo=Google-Chrome&logoColor=white)](https://chenjieliefu.github.io/qingchenai.github.io/)
+[![Website](https://img.shields.io/badge/-Website-0e83cd?style=flat&logo=googlechrome&logoColor=white)](https://chenjieliefu.github.io/qingchenai.github.io/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](#-where-to-find-me)
+[![WeChat](https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white)](#-where-to-find-me)
+[![Woshipm](https://img.shields.io/badge/-Woshipm-F35A4A?style=flat&logo=readme&logoColor=white)](https://www.woshipm.com/u/1685127)
+[![Xiaohongshu](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/6a4db56c0000000010001003)
 
 Welcome to my GitHub page! I'm QINGCHEN, an AI Product Manager focused on LLM application deployment, AI coding and agent workflows — bridging product strategy, user needs and technical implementation.
 
